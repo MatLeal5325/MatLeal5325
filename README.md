@@ -27,7 +27,5 @@
   ![Snake animation](https://github.com/MatLeal5325/MatLeal5325/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MatLeal5325&repo=MatLeal5325&theme=jolly)](https://github.com/MatLeal5325/MatLeal5325)
   
 
