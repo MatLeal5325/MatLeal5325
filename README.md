@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatLeal5325&layout=compact&langs_count=7&theme=jolly"/>
 </div>
  <br>
-<div  align="center">
+<div align="left">
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,8 +21,8 @@
 
 ##
 
-<div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheus-leal-oliveir/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/MatLeal5325/MatLeal5325/blob/output/github-contribution-grid-snake.svg)
  
