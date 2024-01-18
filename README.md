@@ -22,14 +22,3 @@
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg">
     
 </div>
-
-##
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheus-leal-oliveir/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/MatLeal5325/MatLeal5325/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
-
