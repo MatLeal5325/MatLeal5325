@@ -1,7 +1,6 @@
 <h3> Hi everyone! I'm Intern at Hogarth Brazil 💻 </h3>
 
 ##
- <br>
 <div align="left">
   
   <div style="display: inline_block"><br>
